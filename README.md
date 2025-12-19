@@ -5,8 +5,6 @@ Time-killer.
 Start the ".exe" or ".py" file (if you have install python earlier) and play.
 
 # Players control
-Movement:
-
 <h3>Player1</h3>
 
   
