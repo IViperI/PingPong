@@ -7,7 +7,7 @@ Start the ".exe" or ".py" file (if you have install python earlier) and play.
 # Players control
 Movement:
 
--Player1:
+<h2>Player1</h2>
 
   
 •Move DOWN - "S"
@@ -16,7 +16,7 @@ Movement:
 
 •Restart key - "LCtrl"
   
--Player2:
+<h2>Player2</h2>
 
 •Move UP - "↑"
   
