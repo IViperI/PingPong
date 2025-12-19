@@ -1,6 +1,6 @@
 import pygame as pg
 
-MAX_SCORE = 1
+MAX_SCORE = 3
 WIDTH = 800
 HEIGHT = 600
 TITLE = "PingPong!"
