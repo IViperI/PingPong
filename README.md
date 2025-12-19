@@ -9,19 +9,20 @@ Movement:
 
 -Player1:
 
-  Move UP - "W"
   
-  Move DOWN - "S"
+•Move DOWN - "S"
   
-  Restart key - "LCtrl"
+•Move UP - "W"
+
+•Restart key - "LCtrl"
   
 -Player2:
 
-  Move UP - "↑"
+•Move UP - "↑"
   
-  Move DOWN - "↓"
+•Move DOWN - "↓"
   
-  Restart key - "RCtrl"
+•Restart key - "RCtrl"
 
 # Building
 For build project you need the pyinstaller library (pip install pyinstaller).
