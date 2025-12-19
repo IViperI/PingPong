@@ -1,10 +1,10 @@
 # PingPong
 Time-killer.
 
-#How to play
+# How to play
 Start the ".exe" or ".py" file (if you have install python earlier) and play.
 
-#Players control
+# Players control
 Movement:
 -Player1:
   Move UP - "W"
